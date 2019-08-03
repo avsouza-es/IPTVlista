@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", group-title="Canais Aberto Brasil", Canal Aberto
-http://31.204.128.117:8081/live/globo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", group-title="Canais Aberto Brasil", Canal Aberto
-http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
